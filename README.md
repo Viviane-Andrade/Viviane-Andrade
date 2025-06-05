@@ -6,8 +6,15 @@
 <p>I would love to connect with those who like me want to influence the world positively and make a difference by providing a safe and healthy place in technology to others.</p>
 
 
-#### What I'm working on:
-<p>📖 CompTIA Project+ Certification</p>
+#### 📖 What I'm working on:
+<ul>
+  <li>CompTIA Project+</li>
+</ul>
+
+#### <img src="https://cdn-icons-png.freepik.com/256/15173/15173602.png?semt=ais_hybrid" width="25" height="25"/> Check out my portfolio:
+<ul>
+  <li><a href="https://github.com/Viviane-Andrade/Portfolio">Click here to access my portfolio</a></li>
+</ul>
 
 #### 🚀 Some tools I have used and learned:
 <p>
